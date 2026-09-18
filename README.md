@@ -60,8 +60,8 @@ tourist-arrivals-app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd tourist-arrivals-app
+git clone https://github.com/dara1030-debug/lab1-forecasting-tourist-arrivals-lstm-xai.git
+cd lab1-forecasting-tourist-arrivals-lstm-xai
 ```
 
 ### 2. Create a virtual environment
